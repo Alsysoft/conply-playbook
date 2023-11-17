@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/conply-playbook/__docusaurus/debug',
-    component: ComponentCreator('/conply-playbook/__docusaurus/debug', '095'),
-    exact: true
-  },
-  {
-    path: '/conply-playbook/__docusaurus/debug/config',
-    component: ComponentCreator('/conply-playbook/__docusaurus/debug/config', 'ace'),
-    exact: true
-  },
-  {
-    path: '/conply-playbook/__docusaurus/debug/content',
-    component: ComponentCreator('/conply-playbook/__docusaurus/debug/content', '5d2'),
-    exact: true
-  },
-  {
-    path: '/conply-playbook/__docusaurus/debug/globalData',
-    component: ComponentCreator('/conply-playbook/__docusaurus/debug/globalData', '5e8'),
-    exact: true
-  },
-  {
-    path: '/conply-playbook/__docusaurus/debug/metadata',
-    component: ComponentCreator('/conply-playbook/__docusaurus/debug/metadata', '855'),
-    exact: true
-  },
-  {
-    path: '/conply-playbook/__docusaurus/debug/registry',
-    component: ComponentCreator('/conply-playbook/__docusaurus/debug/registry', '37b'),
-    exact: true
-  },
-  {
-    path: '/conply-playbook/__docusaurus/debug/routes',
-    component: ComponentCreator('/conply-playbook/__docusaurus/debug/routes', 'b69'),
-    exact: true
-  },
-  {
     path: '/conply-playbook/blog',
     component: ComponentCreator('/conply-playbook/blog', 'a29'),
     exact: true
