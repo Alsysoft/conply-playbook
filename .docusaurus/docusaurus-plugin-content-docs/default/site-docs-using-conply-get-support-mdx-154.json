@@ -1,0 +1,27 @@
+{
+  "id": "Using Conply/Get Support",
+  "title": "Get Support",
+  "description": "Our dedicated support team is here to help you every step of the way. To get started, follow the link below to access our effective help desk, where you can easily create tickets for your specific issues.",
+  "source": "@site/docs/Using Conply/Get Support.mdx",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Get Support",
+  "permalink": "/conply-playbook/docs/Using Conply/Get Support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Get Support.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/conply-playbook/docs/Using Conply/FAQ"
+  },
+  "next": {
+    "title": "Conply Mobile App",
+    "permalink": "/conply-playbook/docs/category/conply-mobile-app"
+  }
+}

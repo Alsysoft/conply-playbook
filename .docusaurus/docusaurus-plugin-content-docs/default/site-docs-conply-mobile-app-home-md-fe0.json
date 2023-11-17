@@ -1,0 +1,27 @@
+{
+  "id": "Conply Mobile App/Home",
+  "title": "Home",
+  "description": "Quick Overview",
+  "source": "@site/docs/Conply Mobile App/Home.md",
+  "sourceDirName": "Conply Mobile App",
+  "slug": "/Conply Mobile App/Home",
+  "permalink": "/conply-playbook/docs/Conply Mobile App/Home",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Home.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Onboarding",
+    "permalink": "/conply-playbook/docs/Conply Mobile App/Onboarding"
+  },
+  "next": {
+    "title": "Profile",
+    "permalink": "/conply-playbook/docs/Conply Mobile App/Profile"
+  }
+}

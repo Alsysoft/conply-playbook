@@ -19,6 +19,6 @@ After creating each question, save it using the "Save" button. Continue to add q
 5. Publish the Questionnaire
 Once your questionnaire is prepared, and the list is complete, click on the "Send to recipients" button. This action will open a screen displaying all users within the organization. You can select the recipients by choosing User Groups, Users, or Locations. After making your selections, click the "Send" button to ensure the questionnaire is available for the designated recipients.
 
-import conply_health from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_health.png';
+import conply_health from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_health.png';
 
 <img align="left" src={conply_health} alt="conply_health" />

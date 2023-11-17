@@ -1,0 +1,27 @@
+{
+  "id": "Conply Mobile App/Profile",
+  "title": "Profile",
+  "description": "Your Identity",
+  "source": "@site/docs/Conply Mobile App/Profile.md",
+  "sourceDirName": "Conply Mobile App",
+  "slug": "/Conply Mobile App/Profile",
+  "permalink": "/conply-playbook/docs/Conply Mobile App/Profile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Profile.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/conply-playbook/docs/Conply Mobile App/Home"
+  },
+  "next": {
+    "title": "Users",
+    "permalink": "/conply-playbook/docs/Conply Mobile App/Users"
+  }
+}

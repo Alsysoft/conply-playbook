@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Your central hub for managing your profile, work attendance, staying informed and essential navigation. Let's explore the key elements:
 
-import conply_mobile_home from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_mobile_home.png';
+import conply_mobile_home from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_mobile_home.png';
 
 <img align="center" src={conply_mobile_home} alt="conply_mobile_home" width="300" />
 

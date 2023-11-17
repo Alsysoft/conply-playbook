@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Inductions in the application can be categorized into General and Specific, each serving a distinct purpose.
 
-import conply_induction from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_induction.png';
+import conply_induction from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_induction.png';
 
 <img align="left" src={conply_induction} alt="conply_induction" />
 
@@ -57,6 +57,6 @@ Once you've filled in all the information, click the "Save" button.
 
 The induction will be saved and sent to the recipients selected based on their location.
 
-import conply_edit_induction from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_edit_induction.png';
+import conply_edit_induction from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_edit_induction.png';
 
 <img align="left" src={conply_edit_induction} alt="conply_edit_induction" />

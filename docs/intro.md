@@ -37,7 +37,7 @@ Welcome to the Conply User Guide, your comprehensive resource for navigating Con
 
 <h4>Stay informed and stay safe with</h4>
 
-import conply_banner from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_banner.png';
+import conply_banner from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_banner.png';
 
 <img align="center" src={conply_banner} alt="conply_banner" width="400" />
 

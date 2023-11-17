@@ -13,7 +13,7 @@ sidebar_position: 4
 <h2>Browsing Newsfeed</h2>
 <p>When you open the Newsfeed, on the left side, you'll see cards displaying detailed information for each post, including the title, author, category, posting date, description, number of attached files, deadline, and the count of acknowledged users. On the right side, you'll find smaller cards dedicated to "Upcoming Deadlines," providing essential information such as the title, author, category, and the date of the upcoming deadline.</p>
 
-import conply_newsfeed from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_newsfeed.png';
+import conply_newsfeed from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_newsfeed.png';
 
 <img src={conply_newsfeed} alt="conply_newsfeed" />
 
@@ -33,7 +33,7 @@ On the post's page, you'll find additional icon buttons above the content, allow
 
 On the left side:
 
-import conply_left_buttons from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_left_buttons.png';
+import conply_left_buttons from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_left_buttons.png';
 
 <img src={conply_left_buttons} alt="conply_left_buttons" width="400" />
 
@@ -48,7 +48,7 @@ import conply_left_buttons from '/Users/tehciaktm/Documents/2_GitHub/conply_play
 
 On the right side:
 
-import conply_right_buttons from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_right_buttons.png';
+import conply_right_buttons from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_right_buttons.png';
 
 <img src={conply_right_buttons} alt="conply_right_buttons" width="400" />
 
@@ -56,7 +56,7 @@ import conply_right_buttons from '/Users/tehciaktm/Documents/2_GitHub/conply_pla
 2. By default, "All" is displayed alphabetically. Clicking on these buttons will show the users and their confirmation status, including when they have confirmed or not.
 3. You can also use the search field for faster user search.
 
-import conply_view_post from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_view_post.png';
+import conply_view_post from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_view_post.png';
 
 <img src={conply_view_post} alt="conply_view_post" />
 
@@ -81,6 +81,6 @@ Creating a new post is a straightforward process. Follow these steps to share in
 5. Before finalizing the post, review the details to ensure accuracy and completeness.
 6. You can choose to send (Publish now) the post immediately to share with your organization or discard it if you no longer wish to post it.
 
-import conply_create_post from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_create_post.png';
+import conply_create_post from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_create_post.png';
 
 <img src={conply_create_post} alt="conply_create_post" />

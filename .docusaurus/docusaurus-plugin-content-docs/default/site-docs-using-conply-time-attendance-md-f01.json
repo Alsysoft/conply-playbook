@@ -1,0 +1,27 @@
+{
+  "id": "Using Conply/Time & Attendance",
+  "title": "Time & Attendance",
+  "description": "Time & Attendance",
+  "source": "@site/docs/Using Conply/Time & Attendance.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Time & Attendance",
+  "permalink": "/conply-playbook/docs/Using Conply/Time & Attendance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Time & Attendance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Newsfeed",
+    "permalink": "/conply-playbook/docs/Using Conply/Newsfeed"
+  },
+  "next": {
+    "title": "Health",
+    "permalink": "/conply-playbook/docs/Using Conply/Health"
+  }
+}

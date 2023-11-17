@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The Dashboard serves as the default screen upon logging into Conply, providing a comprehensive view of key workforce analytics and essential information. Admins can access it anytime through the side menu. Here's an overview of the main components, and important functionality:
 
-import conply_dashboard from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_dashboard.png';
+import conply_dashboard from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_dashboard.png';
 
 <img align="left" src={conply_dashboard} alt="conply_dashboard" width="1000"/>
 

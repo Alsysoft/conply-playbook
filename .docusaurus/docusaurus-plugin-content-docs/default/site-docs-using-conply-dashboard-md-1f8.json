@@ -1,0 +1,27 @@
+{
+  "id": "Using Conply/Dashboard",
+  "title": "Dashboard",
+  "description": "Dashboard Overview",
+  "source": "@site/docs/Using Conply/Dashboard.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Dashboard",
+  "permalink": "/conply-playbook/docs/Using Conply/Dashboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Dashboard.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Creating an Account",
+    "permalink": "/conply-playbook/docs/Using Conply/Creating an Account"
+  },
+  "next": {
+    "title": "User management",
+    "permalink": "/conply-playbook/docs/Using Conply/User management"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Using Conply/Induction",
+  "title": "Induction",
+  "description": "Inductions in the application can be categorized into General and Specific, each serving a distinct purpose.",
+  "source": "@site/docs/Using Conply/Induction.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Induction",
+  "permalink": "/conply-playbook/docs/Using Conply/Induction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Induction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Health",
+    "permalink": "/conply-playbook/docs/Using Conply/Health"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/conply-playbook/docs/Using Conply/FAQ"
+  }
+}

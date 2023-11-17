@@ -1,0 +1,216 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/conply-playbook/docs/",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Using Conply",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Creating an Account",
+            "href": "/conply-playbook/docs/Using Conply/Creating an Account",
+            "docId": "Using Conply/Creating an Account",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Dashboard",
+            "href": "/conply-playbook/docs/Using Conply/Dashboard",
+            "docId": "Using Conply/Dashboard",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "User management",
+            "href": "/conply-playbook/docs/Using Conply/User management",
+            "docId": "Using Conply/User management",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Newsfeed",
+            "href": "/conply-playbook/docs/Using Conply/Newsfeed",
+            "docId": "Using Conply/Newsfeed",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Time & Attendance",
+            "href": "/conply-playbook/docs/Using Conply/Time & Attendance",
+            "docId": "Using Conply/Time & Attendance",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Health",
+            "href": "/conply-playbook/docs/Using Conply/Health",
+            "docId": "Using Conply/Health",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Induction",
+            "href": "/conply-playbook/docs/Using Conply/Induction",
+            "docId": "Using Conply/Induction",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "FAQ",
+            "href": "/conply-playbook/docs/Using Conply/FAQ",
+            "docId": "Using Conply/FAQ",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Get Support",
+            "href": "/conply-playbook/docs/Using Conply/Get Support",
+            "docId": "Using Conply/Get Support",
+            "unlisted": false
+          }
+        ],
+        "href": "/conply-playbook/docs/category/using-conply"
+      },
+      {
+        "type": "category",
+        "label": "Conply Mobile App",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Onboarding",
+            "href": "/conply-playbook/docs/Conply Mobile App/Onboarding",
+            "docId": "Conply Mobile App/Onboarding",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Home",
+            "href": "/conply-playbook/docs/Conply Mobile App/Home",
+            "docId": "Conply Mobile App/Home",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Profile",
+            "href": "/conply-playbook/docs/Conply Mobile App/Profile",
+            "docId": "Conply Mobile App/Profile",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Users",
+            "href": "/conply-playbook/docs/Conply Mobile App/Users",
+            "docId": "Conply Mobile App/Users",
+            "unlisted": false
+          }
+        ],
+        "href": "/conply-playbook/docs/category/conply-mobile-app"
+      }
+    ]
+  },
+  "docs": {
+    "Conply Mobile App/Home": {
+      "id": "Conply Mobile App/Home",
+      "title": "Home",
+      "description": "Quick Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "Conply Mobile App/Onboarding": {
+      "id": "Conply Mobile App/Onboarding",
+      "title": "Onboarding",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "Conply Mobile App/Profile": {
+      "id": "Conply Mobile App/Profile",
+      "title": "Profile",
+      "description": "Your Identity",
+      "sidebar": "tutorialSidebar"
+    },
+    "Conply Mobile App/Users": {
+      "id": "Conply Mobile App/Users",
+      "title": "Users",
+      "description": "The following features are accessible only for admin accounts on the Conply Mobile App. Normal users will not have access to these functionalities.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Welcome to the Conply User Guide",
+      "sidebar": "tutorialSidebar"
+    },
+    "Using Conply/Creating an Account": {
+      "id": "Using Conply/Creating an Account",
+      "title": "Creating an Account",
+      "description": "Getting Started with Conply",
+      "sidebar": "tutorialSidebar"
+    },
+    "Using Conply/Dashboard": {
+      "id": "Using Conply/Dashboard",
+      "title": "Dashboard",
+      "description": "Dashboard Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "Using Conply/FAQ": {
+      "id": "Using Conply/FAQ",
+      "title": "FAQ",
+      "description": "How do I download the app on my mobile device?",
+      "sidebar": "tutorialSidebar"
+    },
+    "Using Conply/Get Support": {
+      "id": "Using Conply/Get Support",
+      "title": "Get Support",
+      "description": "Our dedicated support team is here to help you every step of the way. To get started, follow the link below to access our effective help desk, where you can easily create tickets for your specific issues.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Using Conply/Health": {
+      "id": "Using Conply/Health",
+      "title": "Health",
+      "description": "Setting Up the Health Section for Onboarding",
+      "sidebar": "tutorialSidebar"
+    },
+    "Using Conply/Induction": {
+      "id": "Using Conply/Induction",
+      "title": "Induction",
+      "description": "Inductions in the application can be categorized into General and Specific, each serving a distinct purpose.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Using Conply/Newsfeed": {
+      "id": "Using Conply/Newsfeed",
+      "title": "Newsfeed",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "Using Conply/Time & Attendance": {
+      "id": "Using Conply/Time & Attendance",
+      "title": "Time & Attendance",
+      "description": "Time & Attendance",
+      "sidebar": "tutorialSidebar"
+    },
+    "Using Conply/User management": {
+      "id": "Using Conply/User management",
+      "title": "User management",
+      "description": "How to use the platform to effectively manage your users.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

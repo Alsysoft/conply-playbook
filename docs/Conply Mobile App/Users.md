@@ -20,7 +20,7 @@ The following features are accessible only for admin accounts on the Conply Mobi
 4. Tap on a user to view basic information, including contact details and current location.
 5. Utilize search and filter options for a more refined user list.
 
-import conply_mobile_users_active from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_mobile_users_active.png';
+import conply_mobile_users_active from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_mobile_users_active.png';
 
 <img center="center" src={conply_mobile_users_active} alt="conply_mobile_users_active" width="300" />
 
@@ -31,7 +31,7 @@ import conply_mobile_users_active from '/Users/tehciaktm/Documents/2_GitHub/conp
 3. Complete the invitation process by hitting the "Send" button.
 4. Once invited their onboarding progress can be seen in the "Invited" tab.
 
-import conply_mobile_users_invited from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_mobile_users_invited.png';
+import conply_mobile_users_invited from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_mobile_users_invited.png';
 
 <img center="center" src={conply_mobile_users_invited} alt="conply_mobile_users_invited" width="300" />
 
@@ -46,7 +46,7 @@ import conply_mobile_users_invited from '/Users/tehciaktm/Documents/2_GitHub/con
 1. Identify and select the user you want to remove.
 2. Tap the "Disable" option to transfer the user to the "Inactive" section for potential restoration.
 
-import conply_mobile_users_inactive from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_mobile_users_inactive.png';
+import conply_mobile_users_inactive from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_mobile_users_inactive.png';
 
 <img center="center" src={conply_mobile_users_inactive} alt="conply_mobile_users_inactive" width="300" />
 
@@ -55,7 +55,7 @@ import conply_mobile_users_inactive from '/Users/tehciaktm/Documents/2_GitHub/co
 1. For removal, tap "Delete" to erase the user's information from the organization, if the user no longer works with the organisation.
 2. Their information will still be stored under the "Deleted" tab.
 
-import conply_mobile_users_deleted from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_mobile_users_deleted.png';
+import conply_mobile_users_deleted from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_mobile_users_deleted.png';
 
 <img center="center" src={conply_mobile_users_deleted} alt="conply_mobile_users_deleted" width="300" />
 

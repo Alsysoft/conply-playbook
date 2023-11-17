@@ -1,0 +1,27 @@
+{
+  "id": "Using Conply/Newsfeed",
+  "title": "Newsfeed",
+  "description": "Introduction",
+  "source": "@site/docs/Using Conply/Newsfeed.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Newsfeed",
+  "permalink": "/conply-playbook/docs/Using Conply/Newsfeed",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Newsfeed.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User management",
+    "permalink": "/conply-playbook/docs/Using Conply/User management"
+  },
+  "next": {
+    "title": "Time & Attendance",
+    "permalink": "/conply-playbook/docs/Using Conply/Time & Attendance"
+  }
+}

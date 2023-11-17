@@ -1,0 +1,862 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/conply-playbook/docs",
+          "tagsPath": "/conply-playbook/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/tehciaktm/Documents/GitHub/conply-playbook/sidebars.js",
+          "contentPath": "/Users/tehciaktm/Documents/GitHub/conply-playbook/docs",
+          "contentPathLocalized": "/Users/tehciaktm/Documents/GitHub/conply-playbook/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "Conply Mobile App/Home",
+              "title": "Home",
+              "description": "Quick Overview",
+              "source": "@site/docs/Conply Mobile App/Home.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Home",
+              "permalink": "/conply-playbook/docs/Conply Mobile App/Home",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Home.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Onboarding",
+                "permalink": "/conply-playbook/docs/Conply Mobile App/Onboarding"
+              },
+              "next": {
+                "title": "Profile",
+                "permalink": "/conply-playbook/docs/Conply Mobile App/Profile"
+              }
+            },
+            {
+              "id": "Conply Mobile App/Onboarding",
+              "title": "Onboarding",
+              "description": "Introduction",
+              "source": "@site/docs/Conply Mobile App/Onboarding.mdx",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Onboarding",
+              "permalink": "/conply-playbook/docs/Conply Mobile App/Onboarding",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Onboarding.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Conply Mobile App",
+                "permalink": "/conply-playbook/docs/category/conply-mobile-app"
+              },
+              "next": {
+                "title": "Home",
+                "permalink": "/conply-playbook/docs/Conply Mobile App/Home"
+              }
+            },
+            {
+              "id": "Conply Mobile App/Profile",
+              "title": "Profile",
+              "description": "Your Identity",
+              "source": "@site/docs/Conply Mobile App/Profile.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Profile",
+              "permalink": "/conply-playbook/docs/Conply Mobile App/Profile",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Profile.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Home",
+                "permalink": "/conply-playbook/docs/Conply Mobile App/Home"
+              },
+              "next": {
+                "title": "Users",
+                "permalink": "/conply-playbook/docs/Conply Mobile App/Users"
+              }
+            },
+            {
+              "id": "Conply Mobile App/Users",
+              "title": "Users",
+              "description": "The following features are accessible only for admin accounts on the Conply Mobile App. Normal users will not have access to these functionalities.",
+              "source": "@site/docs/Conply Mobile App/Users.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Users",
+              "permalink": "/conply-playbook/docs/Conply Mobile App/Users",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Users.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Profile",
+                "permalink": "/conply-playbook/docs/Conply Mobile App/Profile"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Introduction",
+              "description": "Welcome to the Conply User Guide",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/conply-playbook/docs/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "hide_table_of_contents": false,
+                "title": "Introduction",
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Using Conply",
+                "permalink": "/conply-playbook/docs/category/using-conply"
+              }
+            },
+            {
+              "id": "Using Conply/Creating an Account",
+              "title": "Creating an Account",
+              "description": "Getting Started with Conply",
+              "source": "@site/docs/Using Conply/Creating an Account.mdx",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Creating an Account",
+              "permalink": "/conply-playbook/docs/Using Conply/Creating an Account",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Creating an Account.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Using Conply",
+                "permalink": "/conply-playbook/docs/category/using-conply"
+              },
+              "next": {
+                "title": "Dashboard",
+                "permalink": "/conply-playbook/docs/Using Conply/Dashboard"
+              }
+            },
+            {
+              "id": "Using Conply/Dashboard",
+              "title": "Dashboard",
+              "description": "Dashboard Overview",
+              "source": "@site/docs/Using Conply/Dashboard.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Dashboard",
+              "permalink": "/conply-playbook/docs/Using Conply/Dashboard",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Dashboard.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Creating an Account",
+                "permalink": "/conply-playbook/docs/Using Conply/Creating an Account"
+              },
+              "next": {
+                "title": "User management",
+                "permalink": "/conply-playbook/docs/Using Conply/User management"
+              }
+            },
+            {
+              "id": "Using Conply/FAQ",
+              "title": "FAQ",
+              "description": "How do I download the app on my mobile device?",
+              "source": "@site/docs/Using Conply/FAQ.mdx",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/FAQ",
+              "permalink": "/conply-playbook/docs/Using Conply/FAQ",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/FAQ.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Induction",
+                "permalink": "/conply-playbook/docs/Using Conply/Induction"
+              },
+              "next": {
+                "title": "Get Support",
+                "permalink": "/conply-playbook/docs/Using Conply/Get Support"
+              }
+            },
+            {
+              "id": "Using Conply/Get Support",
+              "title": "Get Support",
+              "description": "Our dedicated support team is here to help you every step of the way. To get started, follow the link below to access our effective help desk, where you can easily create tickets for your specific issues.",
+              "source": "@site/docs/Using Conply/Get Support.mdx",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Get Support",
+              "permalink": "/conply-playbook/docs/Using Conply/Get Support",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Get Support.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FAQ",
+                "permalink": "/conply-playbook/docs/Using Conply/FAQ"
+              },
+              "next": {
+                "title": "Conply Mobile App",
+                "permalink": "/conply-playbook/docs/category/conply-mobile-app"
+              }
+            },
+            {
+              "id": "Using Conply/Health",
+              "title": "Health",
+              "description": "Setting Up the Health Section for Onboarding",
+              "source": "@site/docs/Using Conply/Health.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Health",
+              "permalink": "/conply-playbook/docs/Using Conply/Health",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Health.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Time & Attendance",
+                "permalink": "/conply-playbook/docs/Using Conply/Time & Attendance"
+              },
+              "next": {
+                "title": "Induction",
+                "permalink": "/conply-playbook/docs/Using Conply/Induction"
+              }
+            },
+            {
+              "id": "Using Conply/Induction",
+              "title": "Induction",
+              "description": "Inductions in the application can be categorized into General and Specific, each serving a distinct purpose.",
+              "source": "@site/docs/Using Conply/Induction.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Induction",
+              "permalink": "/conply-playbook/docs/Using Conply/Induction",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Induction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Health",
+                "permalink": "/conply-playbook/docs/Using Conply/Health"
+              },
+              "next": {
+                "title": "FAQ",
+                "permalink": "/conply-playbook/docs/Using Conply/FAQ"
+              }
+            },
+            {
+              "id": "Using Conply/Newsfeed",
+              "title": "Newsfeed",
+              "description": "Introduction",
+              "source": "@site/docs/Using Conply/Newsfeed.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Newsfeed",
+              "permalink": "/conply-playbook/docs/Using Conply/Newsfeed",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Newsfeed.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "User management",
+                "permalink": "/conply-playbook/docs/Using Conply/User management"
+              },
+              "next": {
+                "title": "Time & Attendance",
+                "permalink": "/conply-playbook/docs/Using Conply/Time & Attendance"
+              }
+            },
+            {
+              "id": "Using Conply/Time & Attendance",
+              "title": "Time & Attendance",
+              "description": "Time & Attendance",
+              "source": "@site/docs/Using Conply/Time & Attendance.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Time & Attendance",
+              "permalink": "/conply-playbook/docs/Using Conply/Time & Attendance",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Time & Attendance.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Newsfeed",
+                "permalink": "/conply-playbook/docs/Using Conply/Newsfeed"
+              },
+              "next": {
+                "title": "Health",
+                "permalink": "/conply-playbook/docs/Using Conply/Health"
+              }
+            },
+            {
+              "id": "Using Conply/User management",
+              "title": "User management",
+              "description": "How to use the platform to effectively manage your users.",
+              "source": "@site/docs/Using Conply/User management.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/User management",
+              "permalink": "/conply-playbook/docs/Using Conply/User management",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/User management.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dashboard",
+                "permalink": "/conply-playbook/docs/Using Conply/Dashboard"
+              },
+              "next": {
+                "title": "Newsfeed",
+                "permalink": "/conply-playbook/docs/Using Conply/Newsfeed"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Using Conply",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Creating an Account"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Dashboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/User management"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Newsfeed"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Time & Attendance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Health"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Induction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/FAQ"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Get Support"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/using-conply",
+                  "permalink": "/conply-playbook/docs/category/using-conply"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Conply Mobile App",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Conply Mobile App/Onboarding"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Conply Mobile App/Home"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Conply Mobile App/Profile"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Conply Mobile App/Users"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/conply-mobile-app",
+                  "permalink": "/conply-playbook/docs/category/conply-mobile-app"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/conply-playbook/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/conply-playbook/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/conply-playbook/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/conply-playbook/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/conply-playbook/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/conply-playbook/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/conply-playbook/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/conply-playbook/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/conply-playbook/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/conply-playbook/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/conply-playbook/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/conply-playbook/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/conply-playbook/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/conply-playbook/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/conply-playbook/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/conply-playbook/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/conply-playbook/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/conply-playbook/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/conply-playbook/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/conply-playbook/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/conply-playbook/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/conply-playbook/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/conply-playbook/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/conply-playbook/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/conply-playbook/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/conply-playbook/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/conply-playbook/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/conply-playbook/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/conply-playbook/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/conply-playbook/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/conply-playbook/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        }
+      },
+      "blogTagsListPath": "/conply-playbook/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/conply-playbook/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/conply-playbook/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

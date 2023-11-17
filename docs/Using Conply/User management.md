@@ -13,7 +13,7 @@ sidebar_position: 3
 4. You can scroll through the list, search for specific users, or use the "Filter" option to narrow down the list based on criteria such as access group, group, schedule, trade, or any other relevant filters.
 5. Look for the "Invite User" button to add new users to the system, and follow the next step for more information on how to invite a user.
 
-import conply_viewusers from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_viewusers.png';
+import conply_viewusers from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_viewusers.png';
 
 <img src={conply_viewusers} alt="conply_viewusers" />
 
@@ -22,7 +22,7 @@ import conply_viewusers from '/Users/tehciaktm/Documents/2_GitHub/conply_playboo
 1. From the left-side menu, select the "Users" tab.
 2. Click on the "Invite User" button to initiate the invitation process.
 
-import conply_invite_action from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_invite_action.png';
+import conply_invite_action from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_invite_action.png';
 
 <img src={conply_invite_action} alt="conply_invite_action" />
 
@@ -34,7 +34,7 @@ import conply_invite_action from '/Users/tehciaktm/Documents/2_GitHub/conply_pla
 * Trade (Carpenter, Site foreman, Operative)
 4. Save the user's information by clicking the "Send invitation" button.
 
-import conply_invite_user from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_invite_user.png';
+import conply_invite_user from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_invite_user.png';
 
 <img src={conply_invite_user} alt="conply_invite_user" />
 
@@ -47,7 +47,7 @@ import conply_invite_user from '/Users/tehciaktm/Documents/2_GitHub/conply_playb
 3. The app will display a user's general information, profile picture, Inducted status, and maintain a record of their Health Entries over time.
 4. By default, you'll see the Entry History when viewing a user's activity.
 
-import conply_user_activity_view from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_user_activity_view.png';
+import conply_user_activity_view from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_user_activity_view.png';
 
 <img src={conply_user_activity_view} alt="conply_user_activity_view" />
 
@@ -64,7 +64,7 @@ import conply_user_activity_view from '/Users/tehciaktm/Documents/2_GitHub/conpl
 * Capture a user's picture.
 4. Save the updated information by clicking the "Save details" button to apply the changes.
 
-import conply_edit_user from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_edit_user.png';
+import conply_edit_user from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_edit_user.png';
 
 <img src={conply_edit_user} alt="conply_edit_user" />
 
@@ -79,7 +79,7 @@ import conply_edit_user from '/Users/tehciaktm/Documents/2_GitHub/conply_playboo
 
 
 
-import conply_remove_user from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_remove_user.png';
+import conply_remove_user from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_remove_user.png';
 
 <img src={conply_remove_user} alt="conply_remove_user"/>
 

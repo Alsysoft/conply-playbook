@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/conply-playbook/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/conply-playbook/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Conply Mobile App/Home",
+              "path": "/conply-playbook/docs/Conply Mobile App/Home",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Conply Mobile App/Onboarding",
+              "path": "/conply-playbook/docs/Conply Mobile App/Onboarding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Conply Mobile App/Profile",
+              "path": "/conply-playbook/docs/Conply Mobile App/Profile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Conply Mobile App/Users",
+              "path": "/conply-playbook/docs/Conply Mobile App/Users",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/conply-playbook/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Creating an Account",
+              "path": "/conply-playbook/docs/Using Conply/Creating an Account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Dashboard",
+              "path": "/conply-playbook/docs/Using Conply/Dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/FAQ",
+              "path": "/conply-playbook/docs/Using Conply/FAQ",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Get Support",
+              "path": "/conply-playbook/docs/Using Conply/Get Support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Health",
+              "path": "/conply-playbook/docs/Using Conply/Health",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Induction",
+              "path": "/conply-playbook/docs/Using Conply/Induction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Newsfeed",
+              "path": "/conply-playbook/docs/Using Conply/Newsfeed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Time & Attendance",
+              "path": "/conply-playbook/docs/Using Conply/Time & Attendance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/User management",
+              "path": "/conply-playbook/docs/Using Conply/User management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/using-conply",
+              "path": "/conply-playbook/docs/category/using-conply",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/conply-mobile-app",
+              "path": "/conply-playbook/docs/category/conply-mobile-app",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/conply-playbook/docs/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

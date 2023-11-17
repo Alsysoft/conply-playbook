@@ -1,0 +1,27 @@
+{
+  "id": "Using Conply/User management",
+  "title": "User management",
+  "description": "How to use the platform to effectively manage your users.",
+  "source": "@site/docs/Using Conply/User management.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/User management",
+  "permalink": "/conply-playbook/docs/Using Conply/User management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/User management.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/conply-playbook/docs/Using Conply/Dashboard"
+  },
+  "next": {
+    "title": "Newsfeed",
+    "permalink": "/conply-playbook/docs/Using Conply/Newsfeed"
+  }
+}

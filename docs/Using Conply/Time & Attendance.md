@@ -8,7 +8,7 @@ sidebar_position: 5
 
 The Time & Attendance feature provides admins with the ability to accurately track the working hours of each user and generate comprehensive reports. These reports can be exported in PDF and CSV formats or sent via email, offering a robust tool for workforce management.
 
-import conply_timeandatt from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_timeandatt.png';
+import conply_timeandatt from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_timeandatt.png';
 
 <img src={conply_timeandatt} alt="conply_timeandatt" />
 
@@ -32,7 +32,7 @@ The Calendar button is a powerful tool that allows you to specify the timeframe 
 
 * Date Range (Including Current Day): Define a date range that spans from your chosen start date to the current day. This is particularly useful for reviewing time and attendance data over a period of time.
 
-import conply_filters from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_filters.png';
+import conply_filters from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_filters.png';
 
 <img src={conply_filters} alt="conply_filters" width="400" />
 
@@ -51,7 +51,7 @@ You can generate data based on a specific time frame by selecting dates using th
 * Export as CSV
 * Send via Email
 
-import conply_export from '/Users/tehciaktm/Documents/2_GitHub/conply_playbook/static/img/conply_export.png';
+import conply_export from '/Users/tehciaktm/Documents/GitHub/conply-playbook/static/img/conply_export.png';
 
 <img src={conply_export} alt="conply_export" />
 

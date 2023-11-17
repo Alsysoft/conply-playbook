@@ -1,0 +1,27 @@
+{
+  "id": "Using Conply/FAQ",
+  "title": "FAQ",
+  "description": "How do I download the app on my mobile device?",
+  "source": "@site/docs/Using Conply/FAQ.mdx",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/FAQ",
+  "permalink": "/conply-playbook/docs/Using Conply/FAQ",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/FAQ.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Induction",
+    "permalink": "/conply-playbook/docs/Using Conply/Induction"
+  },
+  "next": {
+    "title": "Get Support",
+    "permalink": "/conply-playbook/docs/Using Conply/Get Support"
+  }
+}

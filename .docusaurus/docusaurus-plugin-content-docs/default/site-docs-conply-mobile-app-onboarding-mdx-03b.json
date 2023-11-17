@@ -1,0 +1,27 @@
+{
+  "id": "Conply Mobile App/Onboarding",
+  "title": "Onboarding",
+  "description": "Introduction",
+  "source": "@site/docs/Conply Mobile App/Onboarding.mdx",
+  "sourceDirName": "Conply Mobile App",
+  "slug": "/Conply Mobile App/Onboarding",
+  "permalink": "/conply-playbook/docs/Conply Mobile App/Onboarding",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Onboarding.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conply Mobile App",
+    "permalink": "/conply-playbook/docs/category/conply-mobile-app"
+  },
+  "next": {
+    "title": "Home",
+    "permalink": "/conply-playbook/docs/Conply Mobile App/Home"
+  }
+}
