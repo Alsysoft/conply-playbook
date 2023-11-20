@@ -11,6 +11,7 @@ export default {
   "baseUrl": "/conply-playbook/",
   "organizationName": "Alsysoft",
   "projectName": "conply-playbook",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

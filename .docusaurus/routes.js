@@ -64,19 +64,19 @@ export default [
   },
   {
     path: '/conply-playbook/docs',
-    component: ComponentCreator('/conply-playbook/docs', '117'),
+    component: ComponentCreator('/conply-playbook/docs', 'cae'),
     routes: [
       {
         path: '/conply-playbook/docs',
-        component: ComponentCreator('/conply-playbook/docs', 'b7a'),
+        component: ComponentCreator('/conply-playbook/docs', '930'),
         routes: [
           {
             path: '/conply-playbook/docs',
-            component: ComponentCreator('/conply-playbook/docs', '403'),
+            component: ComponentCreator('/conply-playbook/docs', 'e57'),
             routes: [
               {
-                path: '/conply-playbook/docs/',
-                component: ComponentCreator('/conply-playbook/docs/', 'cba'),
+                path: '/conply-playbook/docs',
+                component: ComponentCreator('/conply-playbook/docs', '971'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
