@@ -29,12 +29,13 @@
               "permalink": "/conply-playbook/docs/Conply Mobile App/Home",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Home.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 2,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -50,18 +51,19 @@
               "id": "Conply Mobile App/Onboarding",
               "title": "Onboarding",
               "description": "Introduction",
-              "source": "@site/docs/Conply Mobile App/Onboarding.mdx",
+              "source": "@site/docs/Conply Mobile App/Onboarding.md",
               "sourceDirName": "Conply Mobile App",
               "slug": "/Conply Mobile App/Onboarding",
               "permalink": "/conply-playbook/docs/Conply Mobile App/Onboarding",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Onboarding.mdx",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 1,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -83,12 +85,13 @@
               "permalink": "/conply-playbook/docs/Conply Mobile App/Profile",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Profile.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 3,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -110,12 +113,13 @@
               "permalink": "/conply-playbook/docs/Conply Mobile App/Users",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Users.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 4,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -133,7 +137,7 @@
               "permalink": "/conply-playbook/docs/",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 0,
@@ -141,7 +145,8 @@
                 "sidebar_position": 0,
                 "hide_table_of_contents": false,
                 "title": "Introduction",
-                "slug": "/"
+                "slug": "/",
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "next": {
@@ -153,18 +158,19 @@
               "id": "Using Conply/Creating an Account",
               "title": "Creating an Account",
               "description": "Getting Started with Conply",
-              "source": "@site/docs/Using Conply/Creating an Account.mdx",
+              "source": "@site/docs/Using Conply/Creating an Account.md",
               "sourceDirName": "Using Conply",
               "slug": "/Using Conply/Creating an Account",
               "permalink": "/conply-playbook/docs/Using Conply/Creating an Account",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Creating an Account.mdx",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 1,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -186,12 +192,13 @@
               "permalink": "/conply-playbook/docs/Using Conply/Dashboard",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Dashboard.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 2,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -207,18 +214,19 @@
               "id": "Using Conply/FAQ",
               "title": "FAQ",
               "description": "How do I download the app on my mobile device?",
-              "source": "@site/docs/Using Conply/FAQ.mdx",
+              "source": "@site/docs/Using Conply/FAQ.md",
               "sourceDirName": "Using Conply",
               "slug": "/Using Conply/FAQ",
               "permalink": "/conply-playbook/docs/Using Conply/FAQ",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/FAQ.mdx",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 9,
               "frontMatter": {
-                "sidebar_position": 9
+                "sidebar_position": 9,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -234,18 +242,19 @@
               "id": "Using Conply/Get Support",
               "title": "Get Support",
               "description": "Our dedicated support team is here to help you every step of the way. To get started, follow the link below to access our effective help desk, where you can easily create tickets for your specific issues.",
-              "source": "@site/docs/Using Conply/Get Support.mdx",
+              "source": "@site/docs/Using Conply/Get Support.md",
               "sourceDirName": "Using Conply",
               "slug": "/Using Conply/Get Support",
               "permalink": "/conply-playbook/docs/Using Conply/Get Support",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Get Support.mdx",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 10,
               "frontMatter": {
-                "sidebar_position": 10
+                "sidebar_position": 10,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -267,12 +276,13 @@
               "permalink": "/conply-playbook/docs/Using Conply/Health",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Health.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
               "frontMatter": {
-                "sidebar_position": 6
+                "sidebar_position": 6,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -294,12 +304,13 @@
               "permalink": "/conply-playbook/docs/Using Conply/Induction",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Induction.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 7,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 7,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -321,12 +332,13 @@
               "permalink": "/conply-playbook/docs/Using Conply/Newsfeed",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Newsfeed.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
               "frontMatter": {
-                "sidebar_position": 4
+                "sidebar_position": 4,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -348,12 +360,13 @@
               "permalink": "/conply-playbook/docs/Using Conply/Time & Attendance",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/Time & Attendance.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 5,
               "frontMatter": {
-                "sidebar_position": 5
+                "sidebar_position": 5,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -375,12 +388,13 @@
               "permalink": "/conply-playbook/docs/Using Conply/User management",
               "draft": false,
               "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Using Conply/User management.md",
+              "editUrl": null,
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
               "frontMatter": {
-                "sidebar_position": 3
+                "sidebar_position": 3,
+                "custom_edit_url": null
               },
               "sidebar": "tutorialSidebar",
               "previous": {

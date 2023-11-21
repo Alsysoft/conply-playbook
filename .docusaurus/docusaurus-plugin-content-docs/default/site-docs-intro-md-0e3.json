@@ -8,7 +8,7 @@
   "permalink": "/conply-playbook/docs/",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 0,
@@ -16,7 +16,8 @@
     "sidebar_position": 0,
     "hide_table_of_contents": false,
     "title": "Introduction",
-    "slug": "/"
+    "slug": "/",
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "next": {

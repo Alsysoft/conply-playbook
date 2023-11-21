@@ -64,19 +64,19 @@ export default [
   },
   {
     path: '/conply-playbook/docs',
-    component: ComponentCreator('/conply-playbook/docs', 'cae'),
+    component: ComponentCreator('/conply-playbook/docs', 'bfa'),
     routes: [
       {
         path: '/conply-playbook/docs',
-        component: ComponentCreator('/conply-playbook/docs', '930'),
+        component: ComponentCreator('/conply-playbook/docs', '114'),
         routes: [
           {
             path: '/conply-playbook/docs',
-            component: ComponentCreator('/conply-playbook/docs', 'e57'),
+            component: ComponentCreator('/conply-playbook/docs', 'c14'),
             routes: [
               {
-                path: '/conply-playbook/docs',
-                component: ComponentCreator('/conply-playbook/docs', '971'),
+                path: '/conply-playbook/docs/',
+                component: ComponentCreator('/conply-playbook/docs/', 'cba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -100,7 +100,7 @@ export default [
               },
               {
                 path: '/conply-playbook/docs/Conply Mobile App/Onboarding',
-                component: ComponentCreator('/conply-playbook/docs/Conply Mobile App/Onboarding', '2a6'),
+                component: ComponentCreator('/conply-playbook/docs/Conply Mobile App/Onboarding', 'ba2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -118,7 +118,7 @@ export default [
               },
               {
                 path: '/conply-playbook/docs/Using Conply/Creating an Account',
-                component: ComponentCreator('/conply-playbook/docs/Using Conply/Creating an Account', '9df'),
+                component: ComponentCreator('/conply-playbook/docs/Using Conply/Creating an Account', '4aa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -130,13 +130,13 @@ export default [
               },
               {
                 path: '/conply-playbook/docs/Using Conply/FAQ',
-                component: ComponentCreator('/conply-playbook/docs/Using Conply/FAQ', 'e3f'),
+                component: ComponentCreator('/conply-playbook/docs/Using Conply/FAQ', '8cc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/conply-playbook/docs/Using Conply/Get Support',
-                component: ComponentCreator('/conply-playbook/docs/Using Conply/Get Support', 'f85'),
+                component: ComponentCreator('/conply-playbook/docs/Using Conply/Get Support', '2bf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

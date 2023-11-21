@@ -1,0 +1,28 @@
+{
+  "id": "Using Conply/Creating an Account",
+  "title": "Creating an Account",
+  "description": "Getting Started with Conply",
+  "source": "@site/docs/Using Conply/Creating an Account.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Creating an Account",
+  "permalink": "/conply-playbook/docs/Using Conply/Creating an Account",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "custom_edit_url": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using Conply",
+    "permalink": "/conply-playbook/docs/category/using-conply"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/conply-playbook/docs/Using Conply/Dashboard"
+  }
+}

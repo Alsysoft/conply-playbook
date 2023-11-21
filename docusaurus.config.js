@@ -22,9 +22,9 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Alsysoft', // Usually your GitHub org/user name.
   projectName: 'conply-playbook', // Usually your repo name.
-  trailingSlash: false,
+  //trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -66,10 +66,7 @@ const config = {
     ({
       // Replace with your project's social card
 
-      tableOfContents: {
-        minHeadingLevel: 2,
-        maxHeadingLevel: 5,
-      },
+      
       navbar: {
         //title: 'My Site',
         logo: {
@@ -133,10 +130,7 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} - Alsys Ltd. All rights reserved`,
       },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
+      
     }),
 };
 

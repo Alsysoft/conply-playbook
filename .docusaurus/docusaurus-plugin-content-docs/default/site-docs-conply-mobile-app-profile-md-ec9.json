@@ -8,12 +8,13 @@
   "permalink": "/conply-playbook/docs/Conply Mobile App/Profile",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Conply Mobile App/Profile.md",
+  "editUrl": null,
   "tags": [],
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_position": 3
+    "sidebar_position": 3,
+    "custom_edit_url": null
   },
   "sidebar": "tutorialSidebar",
   "previous": {
